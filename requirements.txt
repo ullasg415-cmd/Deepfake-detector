@@ -1,0 +1,15 @@
+torch
+torchvision
+facenet-pytorch
+opencv-python
+numpy
+scipy
+grad-cam
+flask
+pillow
+huggingface_hub
+kagglehub
+matplotlib
+scikit-learn
+python-dotenv
+tqdm
